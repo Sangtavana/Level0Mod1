@@ -1,0 +1,11 @@
+1. Complete the method below. Then Re-do the 99-Bottles of Milk assignment using the method.
+
+
+/** 
+*	This method takes in an integer and prints the appropriate line from "99 Bottles of Milk on the Wall."
+*	It should give an error if number is not between 0 and 99 inclusive.
+*	If number equals 1, be sure to give the singular form of bottle instead of "bottles."
+*/
+static void printMilkLyrics(int number){
+	//code goes here
+}

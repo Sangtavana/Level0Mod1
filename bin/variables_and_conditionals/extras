@@ -1,0 +1,25 @@
+1. High-Low Game:	Write a program the plays the high-low game with the user. Have the program generate a random number between 1 and 100.
+					In a loop, have the user guess the number. Let the user know if their guess is correct. Otherwise, tell them if their
+					guess is too low or too high.
+					Tell them how many guesses it took to guess the number.
+					
+2. Horoscope:	Ask the user for their birthday and give them a unique horoscope based on their zodiac sign.
+
+3.Test Scorer: Write a program that asks the user for a test score between 0 and 100. Give them their grade based on the following chart.
+______________
+100  - 97: A+
+96.9 - 93: A
+92.9 - 90: A-
+89.9 - 87: B+
+86.9 - 83: B
+82.9 - 80: B-
+79.9 - 77: C+
+76.9 - 73: C
+72.9 - 70: C-
+69.9 - 67: D+
+66.9 - 63: D
+62.9 - 60: D-
+59.9 - 0 : F
+
+4. Plane Seat Calculator:
+	https://blockly-demo.appspot.com/static/demos/plane/index.html?lang=index&lang=en

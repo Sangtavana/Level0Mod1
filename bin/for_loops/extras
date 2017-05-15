@@ -1,0 +1,8 @@
+1. Voting Machine: 	There are two people running for president of the universe: Dwayne "The Rock" Johnson and Bill Nye the Science Guy.
+					We want to make a voting machine that calculates the winner of the universe.
+					*1 First, ask the user to enter in how many people will be voting. 
+					*2 Make a for loop run that many times.
+					*3 Each iteration of the loop will ask for another vote.
+					*4 At the end of the loop, display who got the most votes and who will inherit everything in existence!
+					
+2. Use a for-loop to print all the lyrics to "99 Bottles of Milk on the Wall".
